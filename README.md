@@ -1,7 +1,7 @@
 # Typepad
 
 Just a hello world Phoenix app.
-
+https://ancient-retreat-72314.herokuapp.com/
 
 
 To start your Phoenix app:
